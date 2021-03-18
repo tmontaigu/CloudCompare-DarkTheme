@@ -1,0 +1,24 @@
+{
+	"type" : "Standard",
+	"name" : "DarkTheme",
+	"icon" : ":/CC/plugin/DarkThemePlugin/images/icon.png",
+	"description": "Adds a cool looking dark mode to CloudCompare",
+	"authors" : [
+		{
+			"name" : "Thomas Montaigu",
+			"email" : "thomas.montaigu@laposte.net"
+		}
+	],
+	"maintainers" : [
+		{
+			"name": "Thomas Montaigu",
+			"email": "thomas.montaigu@laposte.net"
+		}
+	],
+	"references" : [
+		{
+			"text" : "Skin from QDarkStyle",
+			"url" : "https://github.com/ColinDuquesnoy/QDarkStyleSheet"
+		}
+	]
+}
